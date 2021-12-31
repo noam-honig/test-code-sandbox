@@ -1,0 +1,17 @@
+{
+  "name": "simple-form-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/harryheman/use-simple-form.git",
+  "author": "Igor Agapov <aio350@yahoo.com> test",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^6.2.0"
+  },
+  "scripts": {
+    "dev": "concurrently \"yarn --cwd client start\" \"yarn --cwd server dev\" ",
+    "start": "concurrently \"yarn --cwd client start\" \"yarn --cwd server start\" "
+  },
+  "keywords": [],
+  "description": ""
+}

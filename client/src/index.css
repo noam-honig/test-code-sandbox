@@ -1,0 +1,28 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+h1,
+h2,
+h3 {
+  margin: 1rem 0;
+}
+
+.field {
+  margin: 1rem 0;
+  text-align: left;
+}
+
+input {
+  text-align: left;
+}
+
+p {
+  margin: 0.5rem 0;
+  word-break: break-all;
+}
+
+i {
+  margin-right: 0.5rem;
+}
